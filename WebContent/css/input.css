@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+ input[type=text] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+input[type=password] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+.dropbtn {
+    background-color: #024457;
+    color: white;
+    width: 100%%
+    border: thin;
+    cursor: pointer;
+}
+.dropbtn1{
+	background-color: white;
+    color: #024457;
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    border: 2px solid blue;
+    cursor: pointer;
+}
+
+
+.left {
+text-align:left;
+}
+.center {
+text-align:center;
+}
+.centerbtn {
+margin: 0 auto;
+display:block;
+}
+.right_link {
+float: right;
+color: #024457;
+font-size: 15px;
+}
+.color{
+color: #024457;
+}
